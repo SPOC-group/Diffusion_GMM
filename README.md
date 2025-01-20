@@ -3,13 +3,7 @@ Code for the paper : <i>Analysis of learning a flow-based generative model from 
 </i> (<a href="https://arxiv.org/abs/2310.03575">link to paper</a>)
 
 
-<simulation.py> provides a python script that implements the generative model.
-
-<theory.ipynb> solves the theoretical flows for the summary statistics tracking the generative flow.
-
-
-
-<p align="center"><img src="figures/flow.jpg" alt="illus" width="400"/></center></p>
+<p align="center"><img src="figures/flow.jpg" alt="illus" width="500"/></center></p>
 
 ## Theoretical characterization
 (Figs. 1, 2)
