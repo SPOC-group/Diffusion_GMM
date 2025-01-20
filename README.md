@@ -9,7 +9,7 @@ Code for the paper : <i>Analysis of learning a flow-based generative model from 
 
 
 
-<p align="center"><img src="figures/layerwise.jpg" alt="illus" width="400"/></center></p>
+<p align="center"><img src="figures/flow.jpg" alt="illus" width="400"/></center></p>
 
 ## Theoretical characterization
 (Figs. 1, 2)
